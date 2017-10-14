@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Jekyll Blog",
   "main": "index.js",
-  "repository": "https://github.com/markwilliamfirth/blog",
+  "repository": "https://github.com/senescience/senescience.github.io",
   "author": "Mark W. Firth",
   "license": "MIT",
   "dependencies": {
