@@ -1,10 +1,11 @@
 {
   "name": "Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync",
   "version": "1.0.0",
-  "description": "The ageing blog.",
+  "description": "Jekyll Blog",
   "main": "index.js",
-  "repository": "https://github.com/senescience/senescience.github.io",
-  "author": "Senescience",
+  "repository": "https://github.com/markwilliamfirth/blog",
+  "author": "Mark W. Firth",
+  "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.13",
     "child_process": "^1.0.2",

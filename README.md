@@ -1,3 +1,1 @@
-# Senescience
-
-The ageing blog.
+# Blog
