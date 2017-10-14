@@ -1,0 +1,20 @@
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+<meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
+
+<!-- FB -->
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://markwilliamfirth.github.io/senescience.github.io{{ page.url }}/" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta property="og:image" content="http://senescience.tk/img/logo-256.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="256" />
+<meta property="og:image:height" content="256" />
+
+<link rel="icon" href="data:;base64,=">
+
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>

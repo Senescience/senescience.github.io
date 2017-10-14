@@ -1,0 +1,73 @@
+body {
+  font-family: sans-serif;
+}
+.section {
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.section h2 {
+  text-align: center;
+  padding-bottom: 30px;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+.section h1 {
+  text-align: center;
+  font-size: 4em;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+.icons {
+  text-align: center;
+  padding: 20px;
+}
+.contact {
+  margin-bottom: 5px;
+}
+.fa-6x {
+  font-size: 6em;
+}
+.recommendation {
+  padding-bottom: 20px;
+}
+.rec-name {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.rec-job {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.text-center {
+  text-align: center;
+}
+.job {
+  padding-bottom: 30px;
+}
+.job h3 {
+  margin-top: 0px;
+}
+.job-title {
+  font-weight: bold;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.job-logo {
+  padding-bottom: 10px;
+}
+.image-gallery {
+  text-align: center;
+  padding-top: 20px;
+}
+.image-gallery img {
+  margin-right: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
